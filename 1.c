@@ -13,3 +13,5 @@ if(c==1)
 printf("subtraction between a and b gives %f\n",a-b);
 if(c==2)
 printf("multiplication between a and b gives %f\n",a*b);
+if(c==3)
+printf("division between a and b gives %f\n",a/b);
