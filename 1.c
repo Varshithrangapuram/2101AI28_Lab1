@@ -9,3 +9,5 @@ printf("press 0 for addition operation\n press 1 for subtraction operation\n pre
 scanf("%d",&c);
 if(c==0)
 printf("addition between a and b gives %f\n",a+b);
+if(c==1)
+printf("subtraction between a and b gives %f\n",a-b);
